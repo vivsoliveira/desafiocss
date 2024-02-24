@@ -153,10 +153,8 @@ p{
   display: flex;
   flex-direction: row;
   align-content: space-around;
-  justify-content: space-around;
   display: flex;
   flex-wrap: wrap;
-  margin-top: 260px;
   margin-left: 20px;
   margin-right: 20px;
   
