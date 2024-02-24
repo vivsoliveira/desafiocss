@@ -186,10 +186,6 @@ body {
   color: #2c2c2c;
   display: flex;
   justify-content: center;
-  align-self: center;
-  display: flex;
-  justify-content: center;
-
 }
 
 .card.card-color-1 {
