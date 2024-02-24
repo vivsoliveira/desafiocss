@@ -144,11 +144,6 @@ body {
   transition: width 0.2s ease-out, padding-top 0.2s ease-out;
 }
 
-p{
-  display: flex;
-  justify-content: center;
-}
-
 .card-container{
   display: flex;
   flex-direction: row;
@@ -192,6 +187,9 @@ p{
   display: flex;
   justify-content: center;
   align-self: center;
+  display: flex;
+  justify-content: center;
+
 }
 
 .card.card-color-1 {
